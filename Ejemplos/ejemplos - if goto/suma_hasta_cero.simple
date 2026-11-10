@@ -1,8 +1,0 @@
-10 rem suma los numeros que se capturan hasta que llegue un cero
-20 let s = 0
-30 input n
-40 if n == 0 goto 70
-50 let s = s + n
-60 goto 30
-70 print s
-80 end

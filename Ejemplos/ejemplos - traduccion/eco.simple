@@ -1,6 +1,0 @@
-10 rem repite: lee un numero y lo imprime (goto hacia atras, sin condiciones)
-20 rem el ciclo termina al acabarse los datos de entrada (Ctrl+D) o con Ctrl+C
-30 input a
-40 print a
-50 goto 30
-60 end

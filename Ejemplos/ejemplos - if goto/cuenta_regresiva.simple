@@ -1,6 +1,0 @@
-10 rem cuenta regresiva hasta llegar a cero (condicion !=)
-20 input n
-30 print n
-40 let n = n - 1
-50 if n != 0 goto 30
-60 end
