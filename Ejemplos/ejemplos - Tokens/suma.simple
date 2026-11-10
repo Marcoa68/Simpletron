@@ -1,0 +1,6 @@
+10 rem suma de dos numeros
+20 input a
+30 input b
+40 let c = a + b
+50 print c
+60 end

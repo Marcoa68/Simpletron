@@ -1,0 +1,8 @@
+10 rem imprime el mayor de dos numeros (saltos hacia adelante)
+20 input a
+30 input b
+40 if a > b goto 70
+50 print b
+60 goto 80
+70 print a
+80 end

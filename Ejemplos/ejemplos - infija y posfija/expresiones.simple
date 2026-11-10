@@ -1,0 +1,18 @@
+10 rem precedencia, parentesis, modulo y potencia
+20 input a
+30 input b
+40 let r = a + b * 2
+50 print r
+60 let r = ( a + b ) * 2
+70 print r
+80 let r = a % b
+90 print r
+100 let r = 2 ^ b
+110 print r
+120 let r = ( a - b ) * ( a + b ) / 2
+130 print r
+140 let r = 20 - 5 - 3
+150 print r
+160 let r = 2 ^ 3 ^ 2
+170 print r
+180 end
