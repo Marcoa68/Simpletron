@@ -1,0 +1,4 @@
+10 rem dos enunciados con el mismo numero de linea
+20 input a
+20 print a
+30 end

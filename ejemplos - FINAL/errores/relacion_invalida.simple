@@ -1,0 +1,5 @@
+10 rem relacion que no existe
+20 input a
+30 if a = 5 goto 50
+40 print a
+50 end

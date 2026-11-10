@@ -1,0 +1,28 @@
+10 rem prueba las seis condiciones: imprime 1 si se cumple y 0 si no
+20 input a
+30 input b
+40 if a == b goto 70
+50 print 0
+60 goto 80
+70 print 1
+80 if a != b goto 110
+90 print 0
+100 goto 120
+110 print 1
+120 if a < b goto 150
+130 print 0
+140 goto 160
+150 print 1
+160 if a > b goto 190
+170 print 0
+180 goto 200
+190 print 1
+200 if a <= b goto 230
+210 print 0
+220 goto 240
+230 print 1
+240 if a >= b goto 270
+250 print 0
+260 goto 280
+270 print 1
+280 end

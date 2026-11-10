@@ -1,0 +1,3 @@
+10 rem comando que no existe
+20 jump 40
+30 end

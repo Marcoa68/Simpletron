@@ -1,0 +1,10 @@
+10 rem factorial de n (con n <= 7 el resultado cabe en una palabra del Simpletron)
+20 input n
+30 let f = 1
+40 let i = 2
+50 if i > n goto 90
+60 let f = f * i
+70 let i = i + 1
+80 goto 50
+90 print f
+100 end

@@ -1,0 +1,6 @@
+10 rem el goto 40 salta hacia adelante: la linea 30 nunca se ejecuta
+20 goto 40
+30 print 0
+40 input a
+50 print a
+60 end

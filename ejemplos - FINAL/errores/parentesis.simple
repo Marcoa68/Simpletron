@@ -1,0 +1,5 @@
+10 rem parentesis sin cerrar
+20 input a
+30 let c = ( a + 2 * 3
+40 print c
+50 end
